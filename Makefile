@@ -1,7 +1,5 @@
-CC = gcc
 CFLAGS = -O2
 
-FF = g77
 FFLAGS = -O2
 
 all: stream_f.exe stream_c.exe
